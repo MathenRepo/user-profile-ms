@@ -1,0 +1,5 @@
+INSERT INTO USER_TABLE VALUES('1','Super User', 'Mathen');
+INSERT INTO USER_TABLE VALUES('2','Super User1', 'Janani');
+INSERT INTO USER_TABLE VALUES('3','Super User2', 'Janani1');
+INSERT INTO USER_TABLE VALUES('4','Super User3', 'Janani2');
+INSERT INTO USER_TABLE VALUES('5','Super User4', 'Janani3');
